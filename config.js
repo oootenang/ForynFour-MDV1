@@ -3,30 +3,30 @@
 // JANGAN DIHAPUS KALAU MAU DITAMBAHIN
 
 // NUMBER
-global.owner = ['62895327934887'] 
+global.owner = ['6285380166282'] 
 global.mods = [] 
 global.prems = [] 
-global.kontak = ['62895327934887']
+global.kontak = ['6285380166282']
 
 //  INFO BOT 
-global.naown = 'KRIZYN OFC'
-global.noown = '62895327934887'
-global.namebot = 'FORYN FOUR'
-global.nobot = '6289502319715'
+global.naown = 'KAHFI MAKER'
+global.noown = '6285380166282'
+global.namebot = 'Yt Maxxy Botz'
+global.nobot = '6285295374964'
 
 //  URL SOSMED
-global.instagram = 'https://instagram.com/itskri99'
-global.github = 'https://github.com/krizynofc'
-global.gc = 'https://chat.whatsapp.com/HVyRaNWp18NKMAIHv8NjLP'
-global.web = 'https://lynk.id/kri.com' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
-global.saweria = 'https://saweria.co/Kricom'
+global.instagram = 'https://instagram.com/kahfiofc0'
+global.github = 'https://github.com/Frezzy-XD'
+global.gc = 'https://chat.whatsapp.com/I0prmYcZhKrCye0kiclzyt'
+global.web = 'https://lynk.id/kahfi.xd' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.saweria = 'https://saweria.co/MaxxyBotz'
 
 // PAYMANT 
-global.dana = '081360482998'
-global.pulsa = '081360482998'
-global.gopay = '081360482998'
-global.shopay = '081360482998'
-global.ovo = '081360482998'
+global.dana = '085380166282'
+global.pulsa = '085295374964'
+global.gopay = ''
+global.shopay = ''
+global.ovo = ''
 
 // PROFILE ALL 
 global.ppreg = 'https://telegra.ph/file/445721f7cdab701543840.jpg'
@@ -47,7 +47,7 @@ global.dpdf = 'application/pdf'
 global.drtf = 'text/rtf'
 global.djson = 'application/json'
 
-global.thumbdoc = 'https://telegra.ph/file/6e45318d7c76f57e4a8bd.jpg'
+global.thumbdoc = 'https://telegra.ph/file/a428962bca74152d8fed7.jpg'
 
 // FAKE SIZE
 global.fsizedoc = '99999999999999' // default 10TB
@@ -56,8 +56,8 @@ global.fpagedoc = '999'
 // WATERMARK  
 global.wm = 'ᬊᬁ 𝐅𝐎𝐑𝐘𝐍 𝐅𝐎𝐔𝐑'
 global.watermark = wm
-global.wm2 = '⫹⫺ 𝙋𝙤𝙬𝙚𝙧𝙚𝙙 𝘽𝙮 𝙆𝙧𝙞𝙯𝙮𝙣𝙊𝙛𝙘'
-global.wm3 = '⫹⫺ 𝐅𝐎𝐑𝐘𝐍 𝐅𝐎𝐔𝐑 | BOT WHATSAPP MD'
+global.wm2 = '⫹⫺ 𝙋𝙤𝙬𝙚𝙧𝙚𝙙 𝘽𝙮 Kahfi Maker'
+global.wm3 = '⫹⫺ Yt Maxxy Botz | BOT WHATSAPP MD'
 global.tb = 'WHATSAPP BOT MULTI DEVICE'
 
 //  DEFAULT MENU  
@@ -85,7 +85,7 @@ global.admen = `┏═┅〔 *SUPPORT* 〕┅═✦
 ┃⫹⫺ Zivsan
 ┃⫹⫺ Mursid
 ┃⫹⫺ Jarot
-┃⫹⫺ Kanna
+┃⫹⫺ Frezzy-XD 
 ┃⫹⫺ Fokusid
 ┃
 ┗━━══┅┅══━━━✦`
@@ -104,8 +104,8 @@ global.salah = 'Salah ❌\n'
 
 // WATERMARK STICKER 
 global.stiker_wait = '⏳ Stiker sedang Proses'
-global.packname = 'FORYN FOUR'
-global.author = 'By krizynOfc'
+global.packname = 'Yt Maxxy Botz'
+global.author = 'By Kahfi Maker'
 
 //  APIKEY ANDA 
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
