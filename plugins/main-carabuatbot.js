@@ -1,6 +1,6 @@
 let fs = require('fs')
 let handler = async (m, { conn }) => {
-let krizyn = 'https://telegra.ph/file/04dbaf876a5639829e46a.jpg'
+let krizyn = 'https://telegra.ph/file/a428962bca74152d8fed7.jpg'
 let kri = `┌─── 〔 TUTORIAL RUN BOT 〕 ───
 ❍  UPLOAD SCRIPT BOT KE GITHUB
 ❍ TUTORIAL UPLOAD ADA DI YOUTUBE
