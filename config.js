@@ -11,7 +11,7 @@ global.kontak = ['6285756448056']
 //  INFO BOT 
 global.naown = 'Ikhsan-Store'
 global.noown = '6285756448056'
-global.namebot = 'Ikhsan-XD
+global.namebot = 'Ikhsan-XD'
 global.nobot = '6283137750223'
 
 //  URL SOSMED
