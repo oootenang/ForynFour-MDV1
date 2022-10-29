@@ -3,27 +3,27 @@
 // JANGAN DIHAPUS KALAU MAU DITAMBAHIN
 
 // NUMBER
-global.owner = ['6285380166282'] 
+global.owner = ['6285756448056'] 
 global.mods = [] 
-global.prems = [] 
-global.kontak = ['6285380166282']
+global.prems = ['6285756448056'] 
+global.kontak = ['6285756448056']
 
 //  INFO BOT 
-global.naown = 'KAHFI MAKER'
-global.noown = '6285380166282'
-global.namebot = 'Yt Maxxy Botz'
-global.nobot = '6285295374964'
+global.naown = 'Ikhsan-Store'
+global.noown = '6285756448056'
+global.namebot = 'Ikhsan-XD
+global.nobot = '6283137750223'
 
 //  URL SOSMED
 global.instagram = 'https://instagram.com/kahfiofc0'
 global.github = 'https://github.com/Frezzy-XD'
-global.gc = 'https://chat.whatsapp.com/I0prmYcZhKrCye0kiclzyt'
+global.gc = 'https://chat.whatsapp.com/GpwaG5nvU2yCitgJ7c8o8f'
 global.web = 'https://lynk.id/kahfi.xd' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
-global.saweria = 'https://saweria.co/MaxxyBotz'
+global.saweria = '-'
 
 // PAYMANT 
-global.dana = '085380166282'
-global.pulsa = '085295374964'
+global.dana = '6281938681806'
+global.pulsa = '6283137750223'
 global.gopay = ''
 global.shopay = ''
 global.ovo = ''
@@ -54,9 +54,9 @@ global.fsizedoc = '99999999999999' // default 10TB
 global.fpagedoc = '999'
 
 // WATERMARK  
-global.wm = 'ᬊᬁ 𝐅𝐎𝐑𝐘𝐍 𝐅𝐎𝐔𝐑'
+global.wm = 'ᬊᬁ Ikhsan-XD'
 global.watermark = wm
-global.wm2 = '⫹⫺ 𝙋𝙤𝙬𝙚𝙧𝙚𝙙 𝘽𝙮 Kahfi Maker'
+global.wm2 = '⫹⫺ 𝙋𝙤𝙬𝙚𝙧𝙚𝙙 𝘽𝙮 Ikhsan-Store'
 global.wm3 = '⫹⫺ Yt Maxxy Botz | BOT WHATSAPP MD'
 global.tb = 'WHATSAPP BOT MULTI DEVICE'
 
